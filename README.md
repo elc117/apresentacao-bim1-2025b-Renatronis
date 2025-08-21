@@ -18,9 +18,7 @@ Nesse primeiro trecho podemos notar a presença do "import" que remete ao "#incl
 <img width="537" height="255" alt="image" src="https://github.com/user-attachments/assets/30f3ee9f-9f48-406c-9865-88c635d8d8a0" />
 
 Nesse trecho, sem termos amplo conhecimento da linguagem, podemos notar o cálculo de coordenas e alguns artifícios novos, por exemplo a presença de uma nova função o **fromIntegral**, que faz basicamente o que o nome enuncia, converte um valor para integral.
-Ainda temos o **where** que serve para criar definições locais (variáveis ou funções auxiliares) que só valem dentro daquela função. E também 
-o **@** que permite dar nome ao valor inteiro ao mesmo tempo em que você decompõe ele em partes.
-
+Ainda temos o **where** que serve para criar definições locais (variáveis ou funções auxiliares) que só valem dentro daquela função. O **@** que permite dar nome ao valor inteiro ao mesmo tempo em que você decompõe ele em partes e também o **atan2** que calcula o ângulo de uma coordenada no plano cartesiano.
 
 ### Parte 3- Map
 
