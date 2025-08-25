@@ -54,7 +54,7 @@ Para contextualizar, neste jogo o jogador se movimenta por meio das teclas e do 
 
 <img width="551" height="290" alt="image" src="https://github.com/user-attachments/assets/9b984656-eacf-406e-95d4-616d78a3c451" />
 
-Nesse trecho de código fica mais difícil para quem não tem experiência com a linguagem compreender o que está acontecendo. Mas prestando atenção em uma função específica chamada **collision** e também pelos cálculos de coordenadas podemos relacionarcom a colisão do jogador com os objetos do mapa. Podemos notar as seguintes funções: 
+Nesse trecho de código fica mais difícil para quem não tem experiência com a linguagem compreender o que está acontecendo. Mas prestando atenção em uma função específica chamada **collision** e também pelos cálculos de coordenadas podemos relacionar com a colisão do jogador com os objetos do mapa. Podemos notar as seguintes funções: 
 - **floor**: serve para arredondar um número para baixo.
 - **abs**: retorna o valor absoluto de um número.
 
